@@ -1,0 +1,41 @@
+[
+  {
+    "ID": "12345",
+    "Name": "Test1 test2",
+    "FirstName": "Test1",
+    "LastName": "test2",
+    "EmployeeID": "123456",
+    "WorkerCategory": "Employee",
+    "WorkEmail": "test1@mail.com.invalid",
+    "BusinessTitle": "Executive Assistant",
+    "LoginName": "ttest2",
+    "CareerModelLevel": "S3 - Sr. Specialist",
+    "CareerModelLevelNumber": "3.0",
+    "WMPOffice": "Pune",
+    "Specialty": "",
+    "BusinessUnit": "Human Capital Management",
+    "HomeDepartment": "Corporate General",
+    "AccountStatus": "Active",
+    "HireDate": "2023-04-18",
+    "TerminationDate": "",
+    "CareerAdvisorID": "sfvihnSDLIBVoisehbfv",
+    "Language": "en_US",
+    "LanguageLocale": "en_US",
+    "CurrencyCode": "INR",
+    "Resource": {
+      "ResourceID": "",
+      "FirstName": "",
+      "LastName": "",
+      "BusinessUnit": "",
+      "Grade": "",
+      "Location": "",
+      "ResourceType": "",
+      "PandL": "",
+      "Specialty": "",
+      "ExemptionStatus": "",
+      "FTPTResource": "",
+      "BusinessUnitSecondary": "",
+      "Region": ""
+    }
+  }
+]
